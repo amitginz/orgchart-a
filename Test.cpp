@@ -44,3 +44,8 @@ TEST_CASE("checkthrow-badinput"){
         CHECK_THROWS(org1.add_sub("aviv","arik"));
         CHECK_THROWS(org1.add_sub("haim","arik"));
 }
+
+
+
+
+
